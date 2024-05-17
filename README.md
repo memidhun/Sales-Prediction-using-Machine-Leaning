@@ -29,6 +29,7 @@ The sales data is assumed to be located in an Excel file named 'Shop Sales.xlsx'
 ## Results
 
 The project investigates the effectiveness of different machine learning models in predicting sales. XGBoost Regression with tuned hyperparameters achieved the best performance among the tested models based on the Mean Squared Error metric.
+<br>
 ![[External Image](result.png)](result.png)
 ## Future Improvements
 
